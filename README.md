@@ -6,15 +6,6 @@ Estudante de programação, atualmente cursando o programa **Jovem Programador**
 
 Tenho me dedicado ao aprendizado de desenvolvimento de software, unindo teoria e prática por meio de projetos que envolvem lógica de programação, integração com banco de dados e estruturação de código. Busco constantemente aprofundar meus conhecimentos técnicos e aplicar boas práticas de desenvolvimento.
 
-## Áreas de conhecimento
-
-- **Linguagem de programação:** Python
-- **Banco de dados:** MySQL
-- **ORM:** SQLAlchemy
-- **Framework de API:** FastAPI
-- **Modelagem de dados:** construção de DER (Diagrama Entidade-Relacionamento) e MER (Modelo Entidade-Relacionamento)
-- **Controle de versão:** Git e GitHub
-
 ## Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,9 +15,18 @@ Tenho me dedicado ao aprendizado de desenvolvimento de software, unindo teoria e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Organização dos repositórios
+## Áreas de conhecimento
 
-Os repositórios deste perfil estão organizados em duas categorias:
+- **Linguagem de programação:** Python
+- **Banco de dados:** MySQL
+- **ORM:** SQLAlchemy
+- **Framework de API:** FastAPI
+- **Modelagem de dados:** construção de DER (Diagrama Entidade-Relacionamento) e MER (Modelo Entidade-Relacionamento)
+- **Controle de versão:** Git e GitHub
+
+## Repositórios
+
+Os repositórios estão organizados em duas categorias:
 
 - **Projetos:** sistemas completos, com README detalhando funcionalidades, tecnologias utilizadas e instruções de execução
 - **Estudos:** códigos produzidos durante as aulas, com foco na prática de conceitos específicos (rotas, triggers, chaves estrangeiras, consumo de API, entre outros)
