@@ -1,27 +1,11 @@
-<h1 align="center">Sara Bordignon </h1>
+# Sara Bordignon
 
-<p align="center">
-Estudante do ensino médio e do curso Jovem Programador, aprendendo desenvolvimento back-end, front-end e banco de dados.
-</p>
+Estudante de programação, cursando o Jovem Programador, com foco em desenvolvimento back-end, front-end e banco de dados.
 
-<h2 align="center">Tecnologias que estudo</h2>
-
-<h3 align="center">Back-end</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-
-<h3 align="center">Banco de dados</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<h3 align="center">Front-end</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-<h3 align="center">Ferramentas</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
